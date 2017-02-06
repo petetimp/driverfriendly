@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270071247403" remote="130923696910000000" Dst="1" />
+<file name="DKIMSigner.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270072567479" remote="130923696910000000" Dst="1" />
+<file name="DomainKeySigner.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270073737546" remote="130923696920000000" Dst="1" />
+<file name="HeaderSigner.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270076367696" remote="130923696920000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270071747432" remote="130923696920000000" Dst="1" />
+<file name="SMimeSigner.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270074777605" remote="130923696920000000" Dst="1" />
+</dwsync>

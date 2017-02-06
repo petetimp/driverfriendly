@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CramMd5Authenticator.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270004833605" remote="130923696960000000" Dst="1" />
+<file name="LoginAuthenticator.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270003473527" remote="130923696960000000" Dst="1" />
+<file name="NTLMAuthenticator.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270006143680" remote="130923696960000000" Dst="1" />
+<file name="PlainAuthenticator.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270004803603" remote="130923696960000000" Dst="1" />
+<file name="XOAuth2Authenticator.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921270003483528" remote="130923696970000000" Dst="1" />
+</dwsync>

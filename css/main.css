@@ -1,0 +1,615 @@
+body {
+    background-color: #000000;
+    margin:0;
+    height:650px;
+    color:#0000cc;
+    font-family: 'Trebuchet MS', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body > div{
+    background-color:silver;
+    height:650px;
+    width:350px;
+    position:relative;
+    left:50%;
+    margin-left:-175px;
+    white-space: normal;
+}
+
+#df_home{
+    margin-top:-23px;
+}
+
+body > div div, body > div h1, body > div span{
+    display:block;
+    width:300px;
+    position:relative;
+    left:50%;
+    margin-left:-150px;
+}
+
+#__ig_wm__{
+    display:none;
+}
+
+a{
+    text-decoration:none!important;
+}
+
+.icon1, .icon2{
+    position:relative;
+    left:50%;
+}
+
+.icon1{
+    margin-left:-50px;
+    top:20px;
+    width:100px;
+    height:100px;
+}
+
+.icon2{
+    height:65px;
+    width:65px;
+    margin-left:-32.5px;
+    margin-top:10px;
+}
+
+.icon1 path, .icon2 path {
+    fill: #0000cc;
+}
+
+.title1, .label1, .label2, .containerbox1 a{
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+}
+
+.title1 {
+    font-size: 34px;
+    top:15px;
+    width:300px;
+    margin-left:-150px;
+}
+
+.df_page_title{
+    text-align: center;
+    font-size:28px;
+    font-weight:bold;
+    margin-top:20px;
+}
+
+.label1 {
+    font-size: 16px;
+}
+
+.label2 {
+    font-size: 13px;
+    width:110px;
+    margin:0px;
+    left:32px;
+    top:40px;
+    height:45px;
+}
+
+#label3{
+    top:-5px;
+    left:160px;
+}
+
+.label4{
+    text-align: center;
+    font-size: 16px;
+    font-weight:bold;
+}
+
+select {
+    position: relative;
+    left: 15px;
+    top: 3px;
+    width: 124px;
+    color: #A9A9A9;
+    font-family: inherit;
+}
+
+select option{
+    color:#000000;
+}
+
+#textbox2, #textbox2a, #textbox3, #textbox4, #textbox5, #textbox12{
+    position:relative;
+    width:120px;
+}
+
+#textbox5{
+    width:300px;
+    left:50%;
+    top:7px;
+    margin-left:-152px;
+    font-family:inherit;
+}
+
+.textbox6{
+    display:block;
+    position:relative;
+    width:150px;
+    left:50%;
+    margin-top:20px;
+    margin-left:-75px;
+}
+.containerbox1, .containerbox2, #containerbox3 {
+    text-align:center;
+    position:relative;
+    width:350px;
+    height:31px;
+    top:162px;
+    background-color: #0000cc;
+    padding: 0;
+    left:0;
+    margin-left: 0;
+}
+
+#containerbox1 span{
+    width:305px;
+    margin-left:-152.5px;
+}
+
+.containerbox1{
+    top:0px;
+    white-space: pre-wrap;
+}
+
+#containerbox2{
+    top:35px;
+}
+
+#containerbox3{
+    top: 288px;
+}
+
+#containerbox4{
+    top:-12px;
+}
+
+#containerbox5{
+    top:36px;
+}
+
+#containerbox6{
+    top:38px;
+}
+
+#containerbox7{
+    top:-8px;
+}
+
+#containerbox8{
+    top:170px;
+}
+
+#containerbox9{
+    top:10px;
+}
+
+#containerbox10{
+    top:359px;
+}
+
+#containerbox12{
+    top:58px;
+}
+
+#containerbox13{
+    top:185px;
+}
+
+#containerbox14{
+    top:487px;
+}
+
+#containerbox15 {
+    top: 44px;
+}
+
+#containerbox16 {
+    top: 11px;
+}
+
+body#df_home div#containerbox11{
+   top:22px; 
+}
+
+.containerbox1 span{
+    top: -32px;
+}
+
+.containerbox1 a, .containerbox2 a{
+    color:#C0C0C0;   
+}
+
+.containerbox2 span{
+    font-size: 13px;
+    width:350px;
+    margin-left:-175px;
+    color:silver;
+    height:20px;
+    top:5px;
+}
+
+.listingButton, #button1, #button2, #button3, #button4, #button5, #contactButton, #button6, #button7, #button8, input[value='Register'] {
+    margin:10px;
+    width:80px;
+    height:35px;
+    left:11px;
+    color: silver;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #0000cc;
+    border-color: #B9B9B9;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px!important;
+    cursor: pointer;
+}
+
+#button2{
+    left:36px;
+}
+
+#button3 {
+    margin-left:135px;
+    margin-top:50px;
+}
+
+#button4, #contactButton, #button6, #button7, input[value='Register']{
+    display:block;
+    position:relative;
+    left:50%;
+    margin-left:-40px;
+}
+
+#button4{
+    top:-15px;
+}
+
+#button8{
+    position: absolute;
+    top: 150px;
+    z-index: 10;    
+}
+
+#contactButton{
+    top:10px;
+    width:80px;
+    height:35px;
+}
+
+.df_button_div{
+    width:250px;
+    left:50px;
+    margin-left:0px;
+}
+
+#image1{
+    position:relative;
+    width:192px;
+    left:50%;
+    margin-left:-96px;
+    height:126px;
+    top:5px;
+}
+
+.combobox1 {
+    color: silver;
+    font-size: 13px;
+    font-weight: normal;
+    background-color: #FFFFFF;
+    border-color: #B9B9B9;
+    position:relative;
+    left:82.5px;
+    margin-top:20px;
+    width:185px;
+    height:28px;
+}
+
+.df_a_heading{
+    position:relative;
+    top:5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#df_a_checkboxContainer{
+    text-align:center;
+    position:relative;
+    width:350px;
+    left:50%;
+    top:5px;
+    margin-left:-175px;
+}
+
+#textarea1{
+    position:relative;
+    left:50%;
+    margin-left:-153px;
+    margin-top:0px;
+    width:300px;
+    height:58px;
+}
+
+#Message{
+    position:relative;
+    left:50%;
+    margin-left:-125px;
+    top:20px;
+    width:250px;
+    height:108px;
+}
+#desc_e{
+    position:relative;
+    font-size:13px;
+    left:165px;
+    top:15px;
+}
+.label5,.label6{
+    display:block;
+    position:relative;
+    font-size:13px;
+    width:50px;
+}
+
+.label6{
+    top:20px;
+}
+
+#faq_list{
+    height:395px;
+    width:325px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    position:relative;
+    font-weight: bold;
+    top:20px;
+}
+        
+#faq_list p, #about_us p{
+    margin-left:20px;
+    font-weight:normal;
+    font-size:14px;
+    margin-left:-10px;
+}
+
+#df_c_heading{
+    position:relative;
+    font-weight:bold;
+    text-align:center;
+}
+
+#about_us{
+    height:425px;
+    position:relative;
+    font-weight:bold;
+    top:30px;
+    width:325px;
+    margin-left:-162.5px;
+}
+        
+#about_us p{
+    text-align:center;
+    margin-left:-2px;
+    line-height: 25px;
+}
+
+label.add_page_label{
+    display:block;
+    position:relative;
+    text-align:left;
+    margin:10px 15px;
+    font-size:13px;
+}
+
+table#add_page_table{
+    font-size:13px;
+    margin-top:5px;
+    position: relative;
+    left: 12px;
+}
+
+table#add_page_table td:last-child {
+    padding: 7px 20px 0px;
+}
+
+table#add_page_table select {
+    left:0;
+    top:0;
+}
+
+label.add_page_label span{
+    text-align: center;
+    top: 5px;
+}
+
+div.add_nologin{
+    top:10px;
+}
+
+div#add_submitted, div#loadingtext{
+    text-align:center;
+    height:650px;
+    display:none;
+}
+
+div#add_listing{
+    width: 350px;
+    margin-left: -175px;
+}
+
+select#add_select{
+    color:black;
+}
+
+div#add_submitted p{
+    line-height: 28px;
+}
+
+div#loadingtext{
+    font-size:24px;
+    top:200px;
+}
+
+div#icon3{
+    top:150px;
+    display:none;
+}
+
+#amazon_gift_card{
+    display:block;
+    position:relative;
+    height:100px;
+    width:170px;
+    left:65px;
+}
+
+p.php_message{
+    font-size:13px;
+    margin-left:20px;
+}
+
+div#animationContainer{
+    display:none;
+    height:374px;
+}
+
+img#envelope{
+    position:relative;
+    width:150px;
+    height:105px;
+    left:50%;
+    margin-left:-75px;
+    top:65px;
+}
+
+div#loading_c_text{
+    text-align:center;
+    font-size:24px;
+    position:relative;
+    top:50px;
+}
+
+h1.msg_sent{
+    text-align:center;
+    font-size:24px;
+}
+
+p.msg_sent_p, p#reg_suc_p{
+    font-size:13px;
+    text-align: center;
+}
+
+a.log_link{
+    color:#5F1414;
+}
+
+div.register_page ul, div.register_page p, div.register_page form {
+    font-size:13px;
+}
+
+div.register_page ul{
+    line-height: 18px;
+    list-style-type: square!important;
+}
+
+div#form_div2 input[type='text'], div#form_div2 input[type='password']{
+    position: absolute;
+    left: 120px;
+}
+
+div#form_div2{
+    top:15px;
+}
+
+div#form_div2 ul{
+    list-style-type: none!important;
+}
+
+div#form_div2 ul li{
+    margin-left:-33px;
+}
+
+div#form_div2 input[type='button']{
+    top:-15px; 
+}
+
+.return_login{
+    margin-left:20px;
+}
+
+div.find_links{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    text-align: center;
+    margin-left: -160px;
+    height: 275px;
+	width:335px;
+}
+
+div.myListing_links{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    text-align: center;
+    margin-left: -160px;
+    height: 400px;
+	width:335px;
+}
+
+div.find_links a, div.myListing_links a{
+    color:#0000cc;
+}
+
+div.find_links a:visited, div.myListing_links a:visited{
+    color:#0000cc;
+}
+div.find_links a:hover, div.myListing_links a:hover{
+    color:#5F1414;
+	font-weight:bold;
+}
+
+
+table#listing_details{
+    width: 300px;
+}
+
+table#listing_details td:nth-child(2){
+    padding:10px
+}
+
+div#listing_container{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 325px; 
+	width:325px;
+}
+
+iframe{
+	height: 280px;
+    width: 290px;
+}
+
+span.find_page.df_page_title{
+    font-size:21px;
+    min-height: 50px;
+    max-height: 50px;
+}
+
+p.acc_page_p{
+    text-align:center;
+    font-size:20px;
+}
+
+#event_select{
+    left:0px;	
+}
+
+.containerbox1 span{
+	color:silver;
+}

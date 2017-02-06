@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntiFloodPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269962181165" remote="130923696840000000" Dst="1" />
+<file name="BandwidthMonitorPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269969301572" remote="130923696840000000" Dst="1" />
+<file name="DecoratorPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269969921608" remote="130923696850000000" Dst="1" />
+<file name="ImpersonatePlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269967801487" remote="130923696850000000" Dst="1" />
+<file name="Logger.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269962911207" remote="130923696860000000" Dst="1" />
+<file name="LoggerPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269970851661" remote="130923696860000000" Dst="1" />
+<file name="MessageLogger.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269967061444" remote="130923696870000000" Dst="1" />
+<file name="PopBeforeSmtpPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269965571359" remote="130923696870000000" Dst="1" />
+<file name="RedirectingPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269968321516" remote="130923696870000000" Dst="1" />
+<file name="Reporter.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269966471411" remote="130923696880000000" Dst="1" />
+<file name="ReporterPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269971611705" remote="130923696880000000" Dst="1" />
+<file name="Sleeper.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269963651249" remote="130923696880000000" Dst="1" />
+<file name="ThrottlerPlugin.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269964181280" remote="130923696890000000" Dst="1" />
+<file name="Timer.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269964861318" remote="130923696890000000" Dst="1" />
+</dwsync>

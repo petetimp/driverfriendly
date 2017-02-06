@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269995133050" remote="130923696960000000" Dst="1" />
+<file name="EsmtpHandler.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269996343119" remote="130923696990000000" Dst="1" />
+<file name="EsmtpTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269992122878" remote="130923697000000000" Dst="1" />
+<file name="FailoverTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269995713083" remote="130923697000000000" Dst="1" />
+<file name="IoBuffer.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269991292830" remote="130923697000000000" Dst="1" />
+<file name="LoadBalancedTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269990702797" remote="130923697010000000" Dst="1" />
+<file name="MailInvoker.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269996903151" remote="130923697010000000" Dst="1" />
+<file name="MailTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269998873264" remote="130923697010000000" Dst="1" />
+<file name="NullTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269997673195" remote="130923697010000000" Dst="1" />
+<file name="SendmailTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269992842919" remote="130923697020000000" Dst="1" />
+<file name="SimpleMailInvoker.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269993572961" remote="130923697020000000" Dst="1" />
+<file name="SmtpAgent.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269999423295" remote="130923697020000000" Dst="1" />
+<file name="SpoolTransport.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269994453011" remote="130923697020000000" Dst="1" />
+<file name="StreamBuffer.php" server="104.236.221.43//var/www/html/DriverFriendly/" local="130921269998263229" remote="130923697020000000" Dst="1" />
+</dwsync>
